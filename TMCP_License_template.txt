@@ -1,0 +1,20 @@
+The "Touch My Code And Perish" License (TMCP License)
+
+Copyright (c) 2025 ~ 2027 Hanhan Wu
+
+Permission is hereby granted to view this code for evaluation purposes only.
+You may not reuse, copy, modify, merge, publish, distribute, sublicense,
+or exploit this code without our EXPLICIT written permission.
+
+Any unauthorized use of this code — especially by unethical bosses, sneaky VPs,
+or credit-stealing teams — will trigger a karmic response involving:
+
+- Spontaneous coffee spills on keyboards
+- Endless meetings with no agenda
+- Mysterious bugs that vanish when screen-sharing
+- And a haunting sense of guilt lasting exactly 3 months
+
+Use it wisely. Or don't use it at all.
+
+Signed,
+Hanhan Wu — Code Sorcerer & Copyright Holder
